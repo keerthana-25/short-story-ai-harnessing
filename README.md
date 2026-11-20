@@ -1,17 +1,14 @@
 # It's Not Just the Model: Agent Harness Engineering
 
-**Short Story Assignment (individual)** · Keerthana · SJSU MS Data Science
-
 A short story on **agent harness engineering**, the code around an LLM (loop, tools, context, state, hooks, evaluation) that turns it into a working agent. It's based on one main survey and three companion surveys from May–Sep 2026.
 
 ## Links
 
 | Deliverable | Link |
 |---|---|
-| Medium article | _add link_ |
+| Medium article | https://medium.com/@keerthanapm257/the-model-was-never-the-whole-agent-reading-the-agent-harness-survey-c83feb2a2618 |
 | SlideShare deck | _add link_ |
-| YouTube video (15+ min) | _add link_ |
-| Video file in this repo | `video/` _(add the recording here)_ |
+| Video (15+ min) | _add link_ |
 
 ## Papers covered
 

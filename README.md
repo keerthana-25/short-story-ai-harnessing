@@ -7,7 +7,7 @@ A short story on **agent harness engineering**, the code around an LLM (loop, to
 | Deliverable | Link |
 |---|---|
 | Medium article | https://medium.com/@keerthanapm257/the-model-was-never-the-whole-agent-reading-the-agent-harness-survey-c83feb2a2618 |
-| SlideShare deck | _add link_ |
+| SlideShare deck | slideshare was down, hence added the slides folder |
 | Video (15+ min) | _add link_ |
 
 ## Papers covered
